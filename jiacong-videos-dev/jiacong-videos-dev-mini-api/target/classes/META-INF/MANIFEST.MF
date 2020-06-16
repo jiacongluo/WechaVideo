@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jiacong-videos-dev-mini-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jiacongluo
+Implementation-Vendor-Id: com.jiacong
+Build-Jdk: 1.8.0_202
+Implementation-URL: http://projects.spring.io/spring-boot/jiacong-vide
+ os-dev/jiacong-videos-dev-mini-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
